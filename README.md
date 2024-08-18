@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiiMGuel
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C and C++ with CMake
-- 📫 How to reach me? you can email miimguel@gmail.com
+- 🌱 I’m currently learning C and Zig
+- 📫 How to reach me? you can email miimguel065@gmail.com
 - ⚡ Fun fact: i haven't do anything yet
